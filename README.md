@@ -1,3 +1,3 @@
 # ai-coding-tools
 
-This repo goes along with YouTube video and blog post. It's meant to be a starting point for using Cursor with Databricks. Use rules in `.cursor/rules` folder as a starting point to build your own codebase.
+This repo goes along with YouTube video [Databricks + Cursor IDE: Step-by-Step AI Coding Tutorial](https://www.youtube.com/watch?v=Ii2LuEJ0gpc) and related [blog post](https://dustinvannoy.com/2025/09/29/cursor-with-databricks-ai-enhanced-development). It's meant to be a starting point for using Cursor with Databricks. Use rules in `.cursor/rules` folder as a starting point to build your own codebase.
