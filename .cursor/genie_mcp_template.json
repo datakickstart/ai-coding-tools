@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+        "genie": {
+            "type": "streamable-http",
+            "url": "https://adb-792xxxxxxxxx.14.azuredatabricks.net/api/2.0/mcp/genie/01f08a0b4f0c1fee879521e289681b89",
+            "headers": {
+                "Authorization": "Bearer dapi75819xxxxxxxxxxxxxxxxxxxx"
+            }
+        }
+    }
+}
+
